@@ -5,8 +5,9 @@ I'm currently a second year CS student at Stanford pursuing the AI track. I have
 Tech I'm familiar with: 
 Python 
 
-[![Kavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanand77&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Kavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanand77&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanand77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kanand77/kanand77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
