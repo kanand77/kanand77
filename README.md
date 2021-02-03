@@ -6,7 +6,7 @@ I have experience working with research teams on large machine learning projects
 
 Languages I'm familiar with: 
  - Python, Jupyter Notebooks
-  - Frameworks: Keras, Tensorflow, NumPy, SciPy, Matplotlib
+   - Frameworks: Keras, Tensorflow, NumPy, SciPy, Matplotlib
  - C/C++
  - MATLAB
  - HTML5, CSS3
