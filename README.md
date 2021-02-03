@@ -5,7 +5,7 @@ I'm currently a second year CS student at Stanford pursuing the AI track. I have
 Tech I'm familiar with: 
 Python 
 
-[![HitCount](http://hits.dwyl.com/kanand77/kanand77githubio.svg)](http://hits.dwyl.com/kanand77/kanand77githubio)
+[![Kavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanand77)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
