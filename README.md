@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋🏽
+
+I'm currently a second year CS student at Stanford pursuing the AI track. I have experience working with research teams on large machine learning projects, being heavily involved as a core engineer at a biotech startup, and contributing to Open Source projects with hackathon pods. 
+
+Tech I'm familiar with: 
+Python 
+[![HitCount](http://hits.dwyl.com/kanand77/kanand77githubio.svg)](http://hits.dwyl.com/kanand77/kanand77githubio)
+
 
 <!--
 **kanand77/kanand77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
