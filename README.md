@@ -5,6 +5,7 @@ I'm currently a second year CS student at Stanford pursuing the AI track.
 I have experience working with research teams on large machine learning projects, being heavily involved as a core engineer at a biotech startup, and contributing to Open Source projects with hackathon pods. 
 
 Languages I'm familiar with: 
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
  - Python, Jupyter Notebooks
    - Frameworks: Keras, Tensorflow, NumPy, SciPy, Matplotlib
  - C/C++
