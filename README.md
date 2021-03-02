@@ -17,6 +17,9 @@ Languages I'm familiar with:
  
 [![Kavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanand77&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
+
+
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanand77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
