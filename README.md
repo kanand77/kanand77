@@ -10,9 +10,9 @@ Languages I'm familiar with:
    - Frameworks: Keras, Tensorflow, NumPy, SciPy, Matplotlib
  - C/C++
  - MATLAB
- - HTML5, CSS3
+ - HTML5, CSS3, JavaScript
  
- I'm looking for employment opportunities to gain access to expert mentorship and further expand my technological skillsets. 
+ I'm looking for employment opportunities to gain access to expert mentorship and further expand my technological skillset. 
  
  
 [![Kavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanand77&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
