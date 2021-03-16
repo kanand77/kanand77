@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-I'm currently a second year CS student at Stanford pursuing the AI track. 
+I'm currently an undergrad CS student at Stanford pursuing the AI track. 
 
 I have experience working with research teams on large machine learning projects, being heavily involved as a core engineer at a biotech startup, and contributing to Open Source projects with hackathon pods. 
 
