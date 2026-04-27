@@ -1,38 +1,11 @@
-### Hi there 👋🏽
+### Hey there 👋🏽
 
-I'm currently an undergrad CS student at Stanford pursuing the AI track. 
+i'm an engineer at [sail research](https://www.sailresearch.com/). we're building efficient inference, built for long-horizon agents. 
 
-I have experience working with research teams on large machine learning projects, being heavily involved as a core engineer at a biotech startup, and contributing to Open Source projects with hackathon pods. 
-
-Languages I'm familiar with: 
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
- - Python, Jupyter Notebooks
-   - Frameworks: Keras, Tensorflow, NumPy, SciPy, Matplotlib
- - C/C++
- - MATLAB
- - HTML5, CSS3, JavaScript
- 
- I'm looking for employment opportunities to gain access to expert mentorship and further expand my technological skillset. 
- 
- 
-[![Kavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanand77&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
-
-
-<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanand77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**kanand77/kanand77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+previously:
+* stanford
+  * computer science bs + ms
+  * club tennis president
+* startups: percassist inc, sigma computing
+* big tech: meta
+* pre(?)-ipo tech: plaid
