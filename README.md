@@ -1,6 +1,6 @@
-### Hey there 👋🏽
+### hey there 👋🏽
 
-i'm an engineer at [sail research](https://www.sailresearch.com/). we're building efficient inference, built for long-horizon agents. 
+i'm an engineer at [sail research](https://www.sailresearch.com/). we're building efficient inference for long-horizon agents
 
 previously:
 * stanford
